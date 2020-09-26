@@ -1,0 +1,13 @@
+br/com/estudo/saulocn/batch/BookProcessor.class
+br/com/estudo/saulocn/resource/BooksResource.class
+br/com/estudo/saulocn/model/Book.class
+br/com/estudo/saulocn/batch/BookWriter.class
+br/com/estudo/saulocn/resource/OrderResource.class
+br/com/estudo/saulocn/dao/BookDao.class
+br/com/estudo/saulocn/dao/OrderDao.class
+br/com/estudo/saulocn/runner/BookProcessingSchedule.class
+br/com/estudo/saulocn/service/OrderService.class
+br/com/estudo/saulocn/resource/JaxRSApplication.class
+br/com/estudo/saulocn/batch/BookReader.class
+br/com/estudo/saulocn/runner/BookCreationSchedule.class
+br/com/estudo/saulocn/model/Order.class

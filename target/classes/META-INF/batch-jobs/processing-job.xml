@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<job id="processing-job">
+    <step id="firstChunkStep" >
+        <chunk item-count="3">
+            <reader ref="bookReader"/>
+            <processor ref="bookProcessor"/>
+            <writer ref="bookWriter"/>
+        </chunk>
+    </step>
+</job>
